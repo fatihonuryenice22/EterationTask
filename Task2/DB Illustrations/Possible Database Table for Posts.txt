@@ -1,0 +1,7 @@
+CREATE TABLE posts (
+    id INT PRIMARY KEY,  
+    userId INT,
+    title VARCHAR(255),
+    body TEXT,
+    FOREIGN KEY (userId) REFERENCES users(id) ON DELETE CASCADE
+);

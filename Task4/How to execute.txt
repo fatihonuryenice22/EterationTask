@@ -1,0 +1,7 @@
+********************************************************
+cd ..\Task4\EterationAcademy
+mvn test
+
+*********************************************************
+
+Another Note: In the https://gitlab.eteration.com/ugur.birdogan/test-automation/-/blob/master/README.md at the last test step we should validate that there are 8 instructors in the academy site right now but there are 6. Please see the expectedInstructorNumber variable in the CheckingInstructorsTest.java class you can change it to desired number.

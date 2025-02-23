@@ -1,0 +1,16 @@
+2025-02-22 15:56:56 INFO  Tests.BaseTest - Test Starting
+2025-02-22 15:57:09 INFO  Tests.BaseTest - Main Page is Reachable Going to Instructors Page
+2025-02-22 15:57:09 INFO  Tests.BaseTest - Instructors button clicked
+2025-02-22 15:57:13 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-22 15:57:46 INFO  Tests.BaseTest - Test Starting
+2025-02-22 15:57:57 INFO  Tests.BaseTest - Main Page is Reachable Going to Instructors Page
+2025-02-22 15:57:57 INFO  Tests.BaseTest - Instructors button clicked
+2025-02-22 15:58:00 INFO  Tests.BaseTest - There are 6 Instructors
+2025-02-22 15:58:00 INFO  Tests.BaseTest - Test Successfully Completed
+2025-02-22 15:58:00 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-22 16:05:56 INFO  Tests.BaseTest - Test Starting
+2025-02-22 16:06:08 INFO  Tests.BaseTest - Main Page is Reachable Going to Instructors Page
+2025-02-22 16:06:08 INFO  Tests.BaseTest - Instructors button clicked
+2025-02-22 16:06:11 INFO  Tests.BaseTest - There are 6 Instructors
+2025-02-22 16:06:11 INFO  Tests.BaseTest - Test Successfully Completed
+2025-02-22 16:06:11 INFO  Tests.BaseTest - Test Finished Closing Browser

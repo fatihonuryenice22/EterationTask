@@ -1,0 +1,8 @@
+CREATE TABLE comments (
+    id INT PRIMARY KEY,  
+    postId INT,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    body TEXT,
+    FOREIGN KEY (postId) REFERENCES posts(id) ON DELETE CASCADE
+);
